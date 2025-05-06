@@ -1,2 +1,2 @@
-# cinnamonese
-Cinnamonese is a captivating online platform dedicated to unveiling the lost world of Sri Lanka’s extinct animals
+# Cinnamonese.lk
+Cinnamonese is a captivating online platform dedicated to unveiling the lost world of Sri Lanka’s extinct animals, from the majestic Sri Lankan lion (Panthera leo sinhaleyus) to ancient tigers and rhinoceroses. Explore a rich database of fossil records, interactive maps of discovery sites, and vivid reconstructions of prehistoric ecosystems. Dive into cultural stories linking these creatures to Sri Lanka’s folklore and art, and learn about the environmental shifts that led to their extinction. With a virtual fossil gallery, educational resources, and a citizen science portal to support modern conservation, Cinnamonese brings Sri Lanka’s paleontological heritage to life for enthusiasts, students, and conservationists worldwide.
